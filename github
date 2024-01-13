@@ -1,0 +1,7 @@
+Import public key in Github server
+.ssh folder inuser directory
+create a file called config without any extensions
+Host github.com
+Hostname github.com
+User git
+IdentityFile ~/adigunda.pem
